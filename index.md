@@ -4,9 +4,7 @@ author_profile: true
 title: "Emily Foster — Cybersecurity Portfolio"
 header:
   overlay_color: "#0D1117"
-  overlay_filter: "0.6"
-  overlay_image: /assets/img/header-bg.jpg   # optional: dark abstract/tech banner
-  caption: ""
+  overlay_filter: "0.7"
 excerpt: >
   Blue team practitioner · Threat detection · CTF competitor ·
   Documenting the journey from curious to certified.
@@ -28,7 +26,7 @@ learning cybersecurity from the ground up.
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Certified in Cybersecurity (CC) | ISC2 | ✅ In Progress |
+| Certified in Cybersecurity (CC) | ISC2 | 🔄 In Progress |
 | CompTIA Security+ | CompTIA | 🎯 Planned |
 | CompTIA CySA+ | CompTIA | 🎯 Planned |
 | CompTIA Network+ | CompTIA | 🎯 Planned |
@@ -37,15 +35,14 @@ learning cybersecurity from the ground up.
 
 ## Projects
 
-A selection of work in progress and completed projects. Each has its own page with
-methodology, findings, and takeaways.
-
 | Project | Focus Area | Status |
 |---|---|---|
-| [CTF Writeups](/ctf-writeups) | Offensive techniques, problem solving | Active |
-| [Detection Rules](/detection-rules) | SIEM, YARA, ATT&CK mapping | Active |
-| [Security Scripts](/security-scripts) | Python/Bash tooling & automation | Active |
-| [Cert Notes](/cert-notes) | Study notes — CC, Security+, CySA+ | Active |
+| CTF Writeups | Offensive techniques, problem solving | Coming soon |
+| Detection Rules | SIEM, YARA, ATT&CK mapping | Coming soon |
+| Security Scripts | Python/Bash tooling & automation | Coming soon |
+| Cert Notes | Study notes — CC, Security+, CySA+ | Coming soon |
+
+Full project details will be added as each repo goes live. Work in progress.
 
 ---
 
@@ -55,20 +52,9 @@ methodology, findings, and takeaways.
 
 **Security Concepts** — Network security · Vulnerability management · Risk & compliance · Cryptography basics · Identity & access management
 
-**Tooling & Languages** — Python · Bash · Wireshark · Nmap · Splunk (learning) · TryHackMe · HackTheBox
+**Tooling & Languages** — Python · Bash · Wireshark · Nmap · TryHackMe · HackTheBox
 
 **Frameworks** — NIST CSF · CIS Controls · MITRE ATT&CK · OWASP Top 10
-
----
-
-## Recent Writeups
-
-<!-- Jekyll will auto-list posts here when you add _posts/ entries -->
-{% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url }}) — <small>{{ post.date | date: "%B %d, %Y" }}</small>
-{% endfor %}
-
-*More in the [CTF Writeups](https://github.com/emilydev5/ctf-writeups) repository.*
 
 ---
 
@@ -76,5 +62,5 @@ methodology, findings, and takeaways.
 
 - **Email:** [emily@emilyfoster.dev](mailto:emily@emilyfoster.dev)
 - **GitHub:** [github.com/emilydev5](https://github.com/emilydev5)
-- **LinkedIn:** [linkedin.com/in/ecfoster](https://linkedin.com/in/ecfoster)
-- **TryHackMe:** [tryhackme.com/p/emily228](https://tryhackme.com/p/emily228)
+- **LinkedIn:** [linkedin.com/in/emilyfoster](https://linkedin.com/in/emilyfoster)
+- **TryHackMe:** [tryhackme.com/p/emilydev5](https://tryhackme.com/p/emilydev5)

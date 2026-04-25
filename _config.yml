@@ -20,7 +20,6 @@ minimal_mistakes_skin: "dark"
 # ── Author ───────────────────────────────────────────────────────────────────
 author:
   name     : "Emily Foster"
-  avatar   : "/assets/img/avatar.jpg"   # add your photo here (400×400px recommended)
   bio      : >-
     Cybersecurity practitioner | Blue team focus | ISC2 CC |
     CompTIA Security+ | Documenting the path to CISSP.
