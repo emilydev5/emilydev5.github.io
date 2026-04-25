@@ -20,9 +20,7 @@ minimal_mistakes_skin: "dark"
 # ── Author ───────────────────────────────────────────────────────────────────
 author:
   name     : "Emily Foster"
-  bio      : >-
-    Cybersecurity practitioner | Blue team focus | ISC2 CC |
-    CompTIA Security+ | Documenting the path to CISSP.
+  bio      : "Blue team practitioner. CC · Sec+ · CySA+ in progress. Documenting the path to CISSP."
   location : "United States"
   email    : "emily@emilyfoster.dev"
   links:
