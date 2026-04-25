@@ -1,0 +1,14 @@
+# _data/navigation.yml
+# Controls the top navigation bar links in Minimal Mistakes
+
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "CTF Writeups"
+    url: https://github.com/emilydev5/ctf-writeups
+  - title: "Cert Notes"
+    url: https://emilyfoster.dev/cert-notes
+  - title: "GitHub"
+    url: https://github.com/emilydev5

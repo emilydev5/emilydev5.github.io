@@ -1,0 +1,88 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# _config.yml — emilydev5.github.io
+# Theme: Minimal Mistakes (dark skin)
+# ─────────────────────────────────────────────────────────────────────────────
+
+title          : "Emily Foster"
+subtitle       : "Cybersecurity Practitioner"
+description    : >-
+  Blue team practitioner documenting the journey from curious to certified.
+  CC · Security+ · CySA+ (in progress). Projects in threat detection,
+  CTF writeups, and security tooling.
+url            : "https://emilyfoster.dev"
+baseurl        : ""
+repository     : "emilydev5/emilydev5.github.io"
+
+# ── Theme ────────────────────────────────────────────────────────────────────
+remote_theme   : "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"
+
+# ── Author ───────────────────────────────────────────────────────────────────
+author:
+  name     : "Emily Foster"
+  avatar   : "/assets/img/avatar.jpg"   # add your photo here (400×400px recommended)
+  bio      : >-
+    Cybersecurity practitioner | Blue team focus | ISC2 CC |
+    CompTIA Security+ | Documenting the path to CISSP.
+  location : "United States"
+  email    : "emily@emilyfoster.dev"
+  links:
+    - label : "GitHub"
+      icon  : "fab fa-fw fa-github"
+      url   : "https://github.com/emilydev5"
+    - label : "LinkedIn"
+      icon  : "fab fa-fw fa-linkedin"
+      url   : "https://linkedin.com/in/emilyfoster"   # update with your real URL
+    - label : "TryHackMe"
+      icon  : "fas fa-fw fa-shield-alt"
+      url   : "https://tryhackme.com/p/emilydev5"     # update if different
+
+# ── Site Settings ────────────────────────────────────────────────────────────
+locale          : "en-US"
+title_separator : "·"
+words_per_minute: 180
+enable_copy_code_button: true
+
+# ── Breadcrumbs & Navigation ─────────────────────────────────────────────────
+breadcrumbs     : true
+
+# ── Plugins ──────────────────────────────────────────────────────────────────
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+# ── Defaults ─────────────────────────────────────────────────────────────────
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout        : single
+      author_profile: true
+      read_time     : true
+      share         : false
+      related       : true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout        : single
+      author_profile: true
+
+# ── Collections (for project pages) ─────────────────────────────────────────
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# ── Exclude from build ───────────────────────────────────────────────────────
+exclude:
+  - "*.py"
+  - "README-setup.md"
+  - Gemfile
+  - Gemfile.lock
+  - vendor
