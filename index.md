@@ -62,5 +62,5 @@ Full project details will be added as each repo goes live. Work in progress.
 
 - **Email:** [emily@emilyfoster.dev](mailto:emily@emilyfoster.dev)
 - **GitHub:** [github.com/emilydev5](https://github.com/emilydev5)
-- **LinkedIn:** [linkedin.com/in/emilyfoster](https://linkedin.com/in/emilyfoster)
+- **LinkedIn:** [linkedin.com/in/ecfoster](https://linkedin.com/in/ecfoster)
 - **TryHackMe:** [tryhackme.com/p/emilydev5](https://tryhackme.com/p/emilydev5)

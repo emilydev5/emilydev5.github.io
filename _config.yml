@@ -29,7 +29,7 @@ author:
       url   : "https://github.com/emilydev5"
     - label : "LinkedIn"
       icon  : "fab fa-fw fa-linkedin"
-      url   : "https://linkedin.com/in/emilyfoster"   # update with your real URL
+      url   : "https://linkedin.com/in/ecfoster"   # update with your real URL
     - label : "TryHackMe"
       icon  : "fas fa-fw fa-shield-alt"
       url   : "https://tryhackme.com/p/emilydev5"     # update if different
