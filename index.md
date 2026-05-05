@@ -52,13 +52,15 @@ Full project details will be added as each repo goes live. Work in progress.
 
 **Business Continuity & Incident Response** — BC/DR concepts · Incident response fundamentals · Logging & monitoring concepts
 
-**Hands-On Practice** — Log analysis · CTF challenges (TryHackMe, HackTheBox) · Home lab work
+**SIEM & Detection** — Splunk (search, dashboards, alerting) · Log analysis · SPL queries
 
-**Tooling & Languages** — Python · Bash · Wireshark · Nmap
+**Hands-On Practice** — CTF challenges (KC7, TryHackMe) · Home lab work
+
+**Tooling & Languages** — Python · Bash · Wireshark · Nmap · Splunk
 
 **Frameworks (Working Knowledge)** — NIST CSF · MITRE ATT&CK · OWASP Top 10
 
-**In Progress** — SIEM · Threat hunting · Vulnerability management · Detection engineering (toward Security+ / CySA+)
+**In Progress** — Threat hunting · Vulnerability management · Detection engineering (toward Security+ / CySA+)
 
 ---
 
