@@ -35,7 +35,7 @@ learning cybersecurity from the ground up.
 
 ## Skills
 
-| Skill Area | Current (ISC2 CC ✅ + Hands-On) | In Progress (Security+ 🔄 / CySA+) |
+| Skill Area | Current (ISC2 CC ✅ + Hands-On) | Future (Security+ 🔄 / CySA+) |
 |---|---|---|
 | Security Fundamentals | CIA triad · Risk management concepts · Access controls | — |
 | Network Security | Network security fundamentals | Advanced network defense · Wireshark · Nmap |
@@ -44,7 +44,7 @@ learning cybersecurity from the ground up.
 | Vulnerability Management | — | Scanning · Assessment · Remediation workflows |
 | Frameworks | NIST CSF · MITRE ATT&CK · OWASP Top 10 (working knowledge) | Deeper application & mapping |
 | Tooling & Languages | Python · Bash · Splunk | Wireshark · Nmap |
-| Hands-On Practice | KC7 · TryHackMe · Home lab | Continued CTF practice (KC7 · TryHackMe) |
+| Hands-On Practice | KC7 · TryHackMe · Home lab | — |
 
 ---
 
