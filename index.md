@@ -44,7 +44,7 @@ learning cybersecurity from the ground up.
 | Vulnerability Management | — | Scanning · Assessment · Remediation workflows |
 | Frameworks | NIST CSF · MITRE ATT&CK · OWASP Top 10 (working knowledge) | Deeper application & mapping |
 | Tooling & Languages | Python · Bash · Splunk | Wireshark · Nmap |
-| Hands-On Practice | KC7 · TryHackMe · Home lab | — |
+| Hands-On Practice | KC7 · TryHackMe · Home lab | Continued CTF practice (KC7 · TryHackMe) |
 
 ---
 
