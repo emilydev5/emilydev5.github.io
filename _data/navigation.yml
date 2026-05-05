@@ -5,10 +5,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
-    url: /projects/
   - title: "GitHub"
     url: https://github.com/emilydev5
+  # - title: "Projects"           # uncomment when first project is live
+  #   url: /projects/
   # - title: "CTF Writeups"       # uncomment when repo is live
   #   url: /ctf-writeups
   # - title: "Cert Notes"         # uncomment when repo is live
