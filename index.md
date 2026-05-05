@@ -48,13 +48,17 @@ Full project details will be added as each repo goes live. Work in progress.
 
 ## Skills
 
-**Blue Team & Detection** — Log analysis · SIEM · Threat hunting · Incident response fundamentals · ATT&CK framework mapping
+**Security Fundamentals (ISC2 CC)** — Security principles (CIA triad) · Risk management concepts · Access controls · Network security fundamentals · Security operations
 
-**Security Concepts** — Network security · Vulnerability management · Risk & compliance · Cryptography basics · Identity & access management
+**Business Continuity & Incident Response** — BC/DR concepts · Incident response fundamentals · Logging & monitoring concepts
 
-**Tooling & Languages** — Python · Bash · Wireshark · Nmap · TryHackMe · HackTheBox
+**Hands-On Practice** — Log analysis · CTF challenges (TryHackMe, HackTheBox) · Home lab work
 
-**Frameworks** — NIST CSF · CIS Controls · MITRE ATT&CK · OWASP Top 10
+**Tooling & Languages** — Python · Bash · Wireshark · Nmap
+
+**Frameworks (Working Knowledge)** — NIST CSF · MITRE ATT&CK · OWASP Top 10
+
+**In Progress** — SIEM · Threat hunting · Vulnerability management · Detection engineering (toward Security+ / CySA+)
 
 ---
 
