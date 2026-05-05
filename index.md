@@ -14,7 +14,7 @@ excerpt: >
 
 I'm a cybersecurity practitioner focused on the blue team — threat detection,
 log analysis, incident response, and continuous learning. I'm currently working
-through a structured certification path (ISC2 CC → CompTIA Security+ → CySA+)
+through a structured certification path (ISC2 CC ✅ → CompTIA Security+ → CySA+)
 while building hands-on skills through CTFs, home lab work, and security tooling projects.
 
 This site documents the work: writeups, tools, notes, and the honest account of
@@ -26,7 +26,7 @@ learning cybersecurity from the ground up.
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Certified in Cybersecurity (CC) | ISC2 | 🔄 In Progress |
+| Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
 | CompTIA Security+ | CompTIA | 🎯 Planned |
 | CompTIA CySA+ | CompTIA | 🎯 Planned |
 | CompTIA Network+ | CompTIA | 🎯 Planned |
@@ -48,13 +48,19 @@ Full project details will be added as each repo goes live. Work in progress.
 
 ## Skills
 
-**Blue Team & Detection** — Log analysis · SIEM · Threat hunting · Incident response fundamentals · ATT&CK framework mapping
+**Security Fundamentals (ISC2 CC)** — Security principles (CIA triad) · Risk management concepts · Access controls · Network security fundamentals · Security operations
 
-**Security Concepts** — Network security · Vulnerability management · Risk & compliance · Cryptography basics · Identity & access management
+**Business Continuity & Incident Response** — BC/DR concepts · Incident response fundamentals · Logging & monitoring concepts
 
-**Tooling & Languages** — Python · Bash · Wireshark · Nmap · TryHackMe · HackTheBox
+**SIEM & Detection** — Splunk (search, dashboards, alerting) · Log analysis · SPL queries
 
-**Frameworks** — NIST CSF · CIS Controls · MITRE ATT&CK · OWASP Top 10
+**Hands-On Practice** — CTF challenges (KC7, TryHackMe) · Home lab work
+
+**Tooling & Languages** — Python · Bash · Wireshark · Nmap · Splunk
+
+**Frameworks (Working Knowledge)** — NIST CSF · MITRE ATT&CK · OWASP Top 10
+
+**In Progress** — Threat hunting · Vulnerability management · Detection engineering (toward Security+ / CySA+)
 
 ---
 
