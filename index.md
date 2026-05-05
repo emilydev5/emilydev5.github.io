@@ -14,7 +14,7 @@ excerpt: >
 
 I'm a cybersecurity practitioner focused on the blue team — threat detection,
 log analysis, incident response, and continuous learning. I'm currently working
-through a structured certification path (ISC2 CC ✅ → CompTIA Security+ → CySA+)
+through a structured certification path (ISC2 CC ✅ → CompTIA Security+ 🔄 → CySA+)
 while building hands-on skills through CTFs, home lab work, and security tooling projects.
 
 This site documents the work: writeups, tools, notes, and the honest account of
@@ -27,40 +27,24 @@ learning cybersecurity from the ground up.
 | Certification | Issuer | Status |
 |---|---|---|
 | Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
-| CompTIA Security+ | CompTIA | 🎯 Planned |
+| CompTIA Security+ | CompTIA | 🔄 In Progress |
 | CompTIA CySA+ | CompTIA | 🎯 Planned |
 | CompTIA Network+ | CompTIA | 🎯 Planned |
 
 ---
 
-## Projects
-
-| Project | Focus Area | Status |
-|---|---|---|
-| CTF Writeups | Offensive techniques, problem solving | Coming soon |
-| Detection Rules | SIEM, YARA, ATT&CK mapping | Coming soon |
-| Security Scripts | Python/Bash tooling & automation | Coming soon |
-| Cert Notes | Study notes — CC, Security+, CySA+ | Coming soon |
-
-Full project details will be added as each repo goes live. Work in progress.
-
----
-
 ## Skills
 
-**Security Fundamentals (ISC2 CC)** — Security principles (CIA triad) · Risk management concepts · Access controls · Network security fundamentals · Security operations
-
-**Business Continuity & Incident Response** — BC/DR concepts · Incident response fundamentals · Logging & monitoring concepts
-
-**SIEM & Detection** — Splunk (search, dashboards, alerting) · Log analysis · SPL queries
-
-**Hands-On Practice** — CTF challenges (KC7, TryHackMe) · Home lab work
-
-**Tooling & Languages** — Python · Bash · Wireshark · Nmap · Splunk
-
-**Frameworks (Working Knowledge)** — NIST CSF · MITRE ATT&CK · OWASP Top 10
-
-**In Progress** — Threat hunting · Vulnerability management · Detection engineering (toward Security+ / CySA+)
+| Skill Area | Current (ISC2 CC ✅ + Hands-On) | In Progress (Security+ 🔄 / CySA+) |
+|---|---|---|
+| Security Fundamentals | CIA triad · Risk management concepts · Access controls | — |
+| Network Security | Network security fundamentals · Wireshark · Nmap | Advanced network defense |
+| Incident Response | BC/DR concepts · IR fundamentals | Incident handling procedures · Forensics basics |
+| SIEM & Detection | Splunk (search, dashboards, alerting) · SPL queries · Log analysis | Detection engineering · Threat hunting |
+| Vulnerability Management | — | Scanning · Assessment · Remediation workflows |
+| Frameworks | NIST CSF · MITRE ATT&CK · OWASP Top 10 (working knowledge) | Deeper application & mapping |
+| Tooling & Languages | Python · Bash · Wireshark · Nmap · Splunk | — |
+| Hands-On Practice | KC7 · TryHackMe · Home lab | — |
 
 ---
 
