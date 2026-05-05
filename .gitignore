@@ -1,0 +1,37 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler / Ruby
+Gemfile.lock
+.bundle/
+vendor/
+
+# Node (if used by any tooling)
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs & temp
+*.log
+*.tmp
+
+# Claude Code local state (per-worktree, not for the repo)
+.claude/
