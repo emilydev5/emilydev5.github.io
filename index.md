@@ -14,7 +14,7 @@ excerpt: >
 
 I'm a cybersecurity practitioner focused on the blue team — threat detection,
 log analysis, incident response, and continuous learning. I'm currently working
-through a structured certification path (ISC2 CC → CompTIA Security+ → CySA+)
+through a structured certification path (ISC2 CC ✅ → CompTIA Security+ → CySA+)
 while building hands-on skills through CTFs, home lab work, and security tooling projects.
 
 This site documents the work: writeups, tools, notes, and the honest account of
@@ -26,7 +26,7 @@ learning cybersecurity from the ground up.
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Certified in Cybersecurity (CC) | ISC2 | 🔄 In Progress |
+| Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
 | CompTIA Security+ | CompTIA | 🎯 Planned |
 | CompTIA CySA+ | CompTIA | 🎯 Planned |
 | CompTIA Network+ | CompTIA | 🎯 Planned |
