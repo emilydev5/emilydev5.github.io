@@ -6,7 +6,7 @@ header:
   overlay_color: "#0D1117"
   overlay_filter: "0.7"
 excerpt: >
-  Blue team practitioner · Threat detection · CTF competitor ·
+  Blue team practitioner · SIEM Engineer · Threat detection · CTF competitor ·
   Documenting the journey from curious to certified.
 ---
 
