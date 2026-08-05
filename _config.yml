@@ -4,11 +4,11 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 title          : "Emily Foster"
-subtitle       : "Cybersecurity Practitioner"
+subtitle       : "Cybersecurity Learning Log"
 description    : >-
-  Blue team practitioner documenting the journey from curious to certified.
-  ISC2 CC certified · Security+ · CySA+ (in progress). Projects in threat detection,
-  CTF writeups, and security tooling.
+  A personal learning log — exploring cybersecurity as a hobby.
+  ISC2 CC certified · Security+ · Network+ · CySA+ (learning). Notes from CTFs
+  (KC7, TryHackMe), home lab work, and Splunk/SIEM experimentation.
 url            : "https://emilyfoster.dev"
 baseurl        : ""
 repository     : "emilydev5/emilydev5.github.io"
@@ -20,7 +20,7 @@ minimal_mistakes_skin: "dark"
 # ── Author ───────────────────────────────────────────────────────────────────
 author:
   name     : "Emily Foster"
-  bio      : "Cybersecurity · emilyfoster.dev"
+  bio      : "Cybersecurity as a hobby · learning log"
   location : "United States"
   email    : "emily@emilyfoster.dev"
   links:
