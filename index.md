@@ -1,28 +1,29 @@
 ---
 layout: home
 author_profile: true
-title: "Emily Foster — Cybersecurity Portfolio"
+title: "Emily Foster — Cybersecurity Learning Log"
 header:
   overlay_color: "#0D1117"
   overlay_filter: "0.7"
 excerpt: >
-  Blue team practitioner · SIEM Engineer · Threat detection · CTF competitor ·
-  Documenting the journey from curious to certified.
+  Cybersecurity for fun · CTFs · Learning notes
 ---
 
 ## About
 
-I'm a cybersecurity practitioner focused on the blue team — threat detection,
-log analysis, incident response, and continuous learning. I'm currently working
-through a structured certification path (ISC2 CC ✅ → CompTIA Security+ 🔄 → Network+ → CySA+)
-while building hands-on skills through CTFs, home lab work, and security tooling projects.
+This is my personal learning log for cybersecurity — a place to keep notes
+and track what I pick up while exploring it as a hobby. I'm not currently
+working in cyber; I explore it because I find it interesting.
 
-This site documents the work: writeups, tools, notes, and the honest account of
-learning cybersecurity from the ground up.
+My interests are mostly blue-team: threat detection, log analysis, incident
+response fundamentals, and playing CTFs on **KC7** and **TryHackMe** in my
+spare time. I've also done some hands-on SIEM work with **Splunk**.
 
 ---
 
 ## Certifications
+
+Certifications I've picked up (or am working through) along the way:
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -35,7 +36,9 @@ learning cybersecurity from the ground up.
 
 ## Skills
 
-| Skill Area | Current (ISC2 CC ✅ + Hands-On) | Future (Security+ 🔄 / Network+ / CySA+) |
+A rough map of what I'm comfortable with versus what I'm still exploring.
+
+| Skill Area | Comfortable with (ISC2 CC ✅ + hands-on) | Learning next (Security+ 🔄 · Network+ · CySA+) |
 |---|---|---|
 | Security Fundamentals | CIA triad · Risk management concepts · Access controls | — |
 | Network Security | Network security fundamentals | Advanced network defense · Wireshark · Nmap |

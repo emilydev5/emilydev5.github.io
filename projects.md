@@ -5,11 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
-No public projects yet. Currently focused on:
+Nothing to share here yet — this is a hobby, so writeups and notes will land
+when they're worth publishing rather than on any schedule.
 
-- Studying for **CompTIA Security+** (in progress) and Network+
-- Hands-on practice with **KC7** and **TryHackMe**
-- Home lab work and SIEM exploration with Splunk
+Right now I'm mostly:
 
-The first writeup or repo will land here once it's ready to publish.
-Until then, see the [home page](/) for current skills and certification progress.
+- Playing CTFs on **KC7** and **TryHackMe**
+- Poking around in a home lab
+- Experimenting with **Splunk** and SIEM concepts
+- Reading through cert material (Security+ next, then Network+)
+
+See the [home page](/) for skills and certifications.
