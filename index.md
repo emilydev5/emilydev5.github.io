@@ -17,7 +17,8 @@ working in cyber; I explore it because I find it interesting.
 
 My interests are mostly blue-team: threat detection, log analysis, incident
 response fundamentals, and playing CTFs on **KC7** and **TryHackMe** in my
-spare time. I've also done some hands-on SIEM work with **Splunk**.
+spare time. I've also done hands-on SIEM work with **Splunk** and earned the
+Splunk Core Certified Power User cert.
 
 ---
 
@@ -28,6 +29,7 @@ Certifications I've picked up (or am working through) along the way:
 | Certification | Issuer | Status |
 |---|---|---|
 | Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
+| Splunk Core Certified Power User | Splunk | ✅ Completed |
 | CompTIA Security+ | CompTIA | 🔄 In Progress |
 | CompTIA CySA+ | CompTIA | 🎯 Planned |
 | CompTIA Network+ | CompTIA | 🎯 Planned |
@@ -38,7 +40,7 @@ Certifications I've picked up (or am working through) along the way:
 
 A rough map of what I'm comfortable with versus what I'm still exploring.
 
-| Skill Area | Comfortable with (ISC2 CC ✅ + hands-on) | Learning next (Security+ 🔄 · Network+ · CySA+) |
+| Skill Area | Comfortable with (ISC2 CC ✅ · Splunk Power User ✅ + hands-on) | Learning next (Security+ 🔄 · Network+ · CySA+) |
 |---|---|---|
 | Security Fundamentals | CIA triad · Risk management concepts · Access controls | — |
 | Network Security | Network security fundamentals | Advanced network defense · Wireshark · Nmap |
