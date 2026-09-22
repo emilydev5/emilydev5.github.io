@@ -40,7 +40,7 @@ Certifications I've picked up (or am working through) along the way:
 
 A rough map of what I'm comfortable with versus what I'm still exploring.
 
-| Skill Area | Comfortable with (ISC2 CC ✅ · Splunk Power User ✅ + hands-on) | Learning next (Security+ 🔄 · Network+ · CySA+) |
+| Skill Area | Comfortable with | Learning next |
 |---|---|---|
 | Security Fundamentals | CIA triad · Risk management concepts · Access controls | — |
 | Network Security | Network security fundamentals | Advanced network defense · Wireshark · Nmap |
