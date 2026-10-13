@@ -11,14 +11,15 @@ excerpt: >
 
 ## About
 
-This is my personal learning log for cybersecurity — a place to keep notes
-and track what I pick up while exploring it as a hobby. I'm not currently
-working in cyber; I explore it because I find it interesting.
+This is my personal learning log for cybersecurity and networking — a place
+to keep notes and track what I pick up as I build skills in both.
 
-My interests are mostly blue-team: threat detection, log analysis, incident
-response fundamentals, and playing CTFs on **KC7** and **TryHackMe** in my
-spare time. I've also done hands-on SIEM work with **Splunk** and earned the
-Splunk Core Certified Power User and Splunk Enterprise Certified Admin certs.
+On the security side, my interests are mostly blue-team: threat detection,
+log analysis, incident response fundamentals, and playing CTFs on **KC7** and
+**TryHackMe**. On the networking side, I'm working through the fundamentals,
+with Network+ on my list. I've also done hands-on SIEM work with **Splunk** and
+earned the Splunk Core Certified Power User and Splunk Enterprise Certified
+Admin certs.
 
 ---
 
