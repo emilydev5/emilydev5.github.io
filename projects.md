@@ -13,6 +13,6 @@ Right now I'm mostly:
 - Playing CTFs on **KC7** and **TryHackMe**
 - Poking around in a home lab
 - Experimenting with **Splunk** and SIEM concepts
-- Reading through cert material (Security+ next, then Network+)
+- Reading through cert material (Security+ next)
 
 See the [home page](/) for skills and certifications.

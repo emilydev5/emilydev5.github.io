@@ -7,7 +7,7 @@ personal cybersecurity learning log.
 
 This repo contains the Jekyll source for a personal site where I keep notes
 on cybersecurity as a hobby: certifications I've picked up (ISC2 CC · CompTIA
-Security+ / Network+ / CySA+), CTF play (KC7, TryHackMe), home-lab
+Security+ / CySA+), CTF play (KC7, TryHackMe), home-lab
 experiments, and Splunk/SIEM notes.
 
 The live site is published at **<https://emilyfoster.dev>** via GitHub Pages.

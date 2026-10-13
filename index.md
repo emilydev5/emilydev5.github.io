@@ -34,7 +34,6 @@ Certifications I've picked up (or am working through) along the way:
 | CompTIA Security+ | CompTIA | 🔄 In Progress |
 | Splunk Enterprise Certified Architect (SPLK-2002) | Splunk | 🎯 Planned |
 | CompTIA CySA+ | CompTIA | 🎯 Planned |
-| CompTIA Network+ | CompTIA | 🎯 Planned |
 
 ---
 
