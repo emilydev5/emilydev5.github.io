@@ -4,9 +4,9 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 title          : "Emily Foster"
-subtitle       : "Cybersecurity Learning Log"
+subtitle       : "Cybersecurity & Networking Learning Log"
 description    : >-
-  A personal learning log — exploring cybersecurity as a hobby.
+  A personal learning log for cybersecurity and networking.
   ISC2 CC · Splunk Core Certified Power User · Splunk Enterprise Certified Admin ·
   Security+ · CySA+ (learning). Notes from CTFs
   (KC7, TryHackMe), home lab work, and Splunk/SIEM experimentation.
@@ -22,7 +22,7 @@ logo           : "/assets/img/logo.svg"
 # ── Author ───────────────────────────────────────────────────────────────────
 author:
   name     : "Emily Foster"
-  bio      : "Cybersecurity as a hobby · learning log"
+  bio      : "Learning cybersecurity & networking"
   location : "United States"
   email    : "emily@emilyfoster.dev"
   links:

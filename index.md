@@ -1,12 +1,12 @@
 ---
 layout: home
 author_profile: true
-title: "Emily Foster — Cybersecurity Learning Log"
+title: "Emily Foster — Cybersecurity & Networking Learning Log"
 header:
   overlay_color: "#0D1117"
   overlay_filter: "0.7"
 excerpt: >
-  Cybersecurity for fun · CTFs · Learning notes
+  Learning cybersecurity & networking · CTFs · Notes
 ---
 
 ## About

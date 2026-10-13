@@ -5,11 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
-Nothing to share here yet — this is a hobby, so writeups and notes will land
-when they're worth publishing rather than on any schedule.
+Nothing to share here yet — writeups and notes will land when they're worth
+publishing rather than on any schedule.
 
 Right now I'm mostly:
 
+- Working through networking fundamentals
 - Playing CTFs on **KC7** and **TryHackMe**
 - Poking around in a home lab
 - Experimenting with **Splunk** and SIEM concepts
