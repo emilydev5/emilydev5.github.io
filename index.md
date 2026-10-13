@@ -29,7 +29,7 @@ Certifications I've picked up (or am working through) along the way:
 | Certification | Issuer | Status |
 |---|---|---|
 | Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
-| Splunk Core Certified Power User | Splunk | ✅ Completed |
+| Splunk Core Certified Power User (SPLK-1002) | Splunk | ✅ Completed |
 | Splunk Enterprise Certified Admin (SPLK-1003) | Splunk | ✅ Completed |
 | CompTIA Security+ | CompTIA | 🔄 In Progress |
 | Splunk Enterprise Certified Architect (SPLK-2002) | Splunk | 🎯 Planned |
