@@ -16,10 +16,9 @@ to keep notes and track what I pick up as I build skills in both.
 
 On the security side, my interests are mostly blue-team: threat detection,
 log analysis, incident response fundamentals, and playing CTFs on **KC7** and
-**TryHackMe**. On the networking side, I'm working through the fundamentals,
-with Network+ on my list. I've also done hands-on SIEM work with **Splunk** and
-earned the Splunk Core Certified Power User and Splunk Enterprise Certified
-Admin certs.
+**TryHackMe**. On the networking side, I'm working through the fundamentals.
+I've also done hands-on SIEM work with **Splunk** and earned the Splunk Core
+Certified Power User and Splunk Enterprise Certified Admin certs.
 
 ---
 
