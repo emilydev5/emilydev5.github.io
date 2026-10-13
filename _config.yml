@@ -17,6 +17,7 @@ repository     : "emilydev5/emilydev5.github.io"
 # ── Theme ────────────────────────────────────────────────────────────────────
 remote_theme   : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
+logo           : "/assets/img/logo.svg"
 
 # ── Author ───────────────────────────────────────────────────────────────────
 author:
