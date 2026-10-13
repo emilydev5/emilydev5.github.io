@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="emilyfoster.dev">
+  <rect x="2" y="2" width="96" height="96" rx="22" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g fill="none" stroke="#e6edf3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 58 H42 A14 14 0 1 0 38 68"/>
+    <path d="M59 72 V38 A10 10 0 0 1 69 28 H76"/>
+    <path d="M53 50 H69"/>
+  </g>
+  <rect x="79" y="65.5" width="9" height="10" rx="2" fill="#2dd4bf"/>
+</svg>

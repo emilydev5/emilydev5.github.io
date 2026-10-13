@@ -18,7 +18,7 @@ working in cyber; I explore it because I find it interesting.
 My interests are mostly blue-team: threat detection, log analysis, incident
 response fundamentals, and playing CTFs on **KC7** and **TryHackMe** in my
 spare time. I've also done hands-on SIEM work with **Splunk** and earned the
-Splunk Core Certified Power User cert.
+Splunk Core Certified Power User and Splunk Enterprise Certified Admin certs.
 
 ---
 
@@ -30,7 +30,9 @@ Certifications I've picked up (or am working through) along the way:
 |---|---|---|
 | Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
 | Splunk Core Certified Power User | Splunk | ✅ Completed |
+| Splunk Enterprise Certified Admin (SPLK-1003) | Splunk | ✅ Completed |
 | CompTIA Security+ | CompTIA | 🔄 In Progress |
+| Splunk Enterprise Certified Architect (SPLK-2002) | Splunk | 🎯 Planned |
 | CompTIA CySA+ | CompTIA | 🎯 Planned |
 | CompTIA Network+ | CompTIA | 🎯 Planned |
 
